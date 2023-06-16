@@ -1,0 +1,11 @@
+[default]
+region = us-west-2
+
+[profile faninc-dev]
+region = us-west-2
+
+[profile faninc-stage]
+region = us-west-2
+
+[profile faninc-prod]
+region = us-west-2
